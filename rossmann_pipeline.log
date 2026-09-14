@@ -1,0 +1,60 @@
+2026-09-13 19:06:46,998 - INFO - Notebook run started.
+2026-09-13 19:06:59,895 - INFO - Notebook run started.
+2026-09-13 19:17:04,440 - INFO - Notebook run started.
+2026-09-13 19:21:24,088 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-13 19:21:28,710 - INFO - Notebook run started.
+2026-09-13 19:21:29,351 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-13 19:21:30,170 - INFO - Missing value imputation completed.
+2026-09-13 19:21:30,501 - INFO - Dropped 172817 closed-store rows.
+2026-09-13 19:22:09,775 - INFO - Notebook run started.
+2026-09-13 19:22:10,336 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-13 19:22:11,092 - INFO - Missing value imputation completed.
+2026-09-13 19:22:11,359 - INFO - Dropped 172817 closed-store rows.
+2026-09-13 19:23:06,745 - INFO - Notebook run started.
+2026-09-13 19:23:07,312 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-13 19:23:08,080 - INFO - Missing value imputation completed.
+2026-09-13 19:23:08,367 - INFO - Dropped 172817 closed-store rows.
+2026-09-13 19:23:14,716 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-13 19:23:14,718 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-13 19:23:27,455 - INFO - Notebook run started.
+2026-09-13 19:23:28,021 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-13 19:23:28,718 - INFO - Missing value imputation completed.
+2026-09-13 19:23:28,968 - INFO - Dropped 172817 closed-store rows.
+2026-09-13 19:23:35,468 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-13 19:23:35,468 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-13 19:24:05,127 - INFO - Notebook run started.
+2026-09-13 19:24:05,718 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-13 19:24:06,491 - INFO - Missing value imputation completed.
+2026-09-13 19:24:06,797 - INFO - Dropped 172817 closed-store rows.
+2026-09-13 19:24:13,349 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-13 19:24:13,349 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-13 19:24:44,202 - INFO - Training Linear Regression...
+2026-09-13 19:24:46,264 - INFO - Linear Regression -> MAE=1903.9, RMSPE=0.4632, R2=0.2567
+2026-09-13 19:24:46,264 - INFO - Training Random Forest...
+2026-09-13 19:26:58,355 - INFO - Random Forest -> MAE=1279.8, RMSPE=0.2851, R2=0.6499
+2026-09-13 19:26:58,355 - INFO - Training XGBoost...
+2026-09-13 19:27:13,435 - INFO - XGBoost -> MAE=715.8, RMSPE=0.1574, R2=0.8856
+2026-09-13 19:28:08,604 - INFO - Notebook run started.
+2026-09-13 19:28:09,231 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-13 19:28:10,011 - INFO - Missing value imputation completed.
+2026-09-13 19:28:10,302 - INFO - Dropped 172817 closed-store rows.
+2026-09-13 19:28:17,375 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-13 19:28:17,375 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-13 19:28:51,403 - INFO - Training Linear Regression...
+2026-09-13 19:28:53,151 - INFO - Linear Regression -> MAE=1903.9, RMSPE=0.4632, R2=0.2567
+2026-09-13 19:28:53,151 - INFO - Training Random Forest...
+2026-09-13 19:31:02,673 - INFO - Random Forest -> MAE=1279.8, RMSPE=0.2851, R2=0.6499
+2026-09-13 19:31:02,673 - INFO - Training XGBoost...
+2026-09-13 19:31:20,884 - INFO - XGBoost -> MAE=715.8, RMSPE=0.1574, R2=0.8856
+2026-09-13 19:34:10,232 - INFO - Model serialized to models/sales_model_13-09-2026-19-34-10-00.pkl
+2026-09-13 20:15:27,511 - INFO - Notebook run started.
+2026-09-13 20:15:35,051 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-14 19:01:38,947 - INFO - Notebook run started.
+2026-09-14 19:01:39,780 - INFO - Loaded train (1017209, 9), test (41088, 8), store (1115, 10)
+2026-09-14 19:01:40,861 - INFO - Missing value imputation completed.
+2026-09-14 19:01:41,259 - INFO - Dropped 172817 closed-store rows.
+2026-09-14 19:01:49,314 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-14 19:01:49,314 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-09-14 19:02:31,670 - INFO - Training Linear Regression...
+2026-09-14 19:02:34,171 - INFO - Linear Regression -> MAE=1903.9, RMSPE=0.4632, R2=0.2567
+2026-09-14 19:02:34,171 - INFO - Training Random Forest...
